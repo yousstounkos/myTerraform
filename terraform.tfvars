@@ -1,0 +1,5 @@
+rg_name               = "rgtounkara0903"
+rg_location           = "West Europe"
+sa_name               = "sa1809esgi5src30903"
+sa_account_tier       = "Standard"
+sa_replication_type   = "LRS"
